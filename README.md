@@ -23,5 +23,5 @@ Emoción — 8/10 Su rol de "jugador desafiante" exige un tono motivador y cerca
 <img width="991" height="1008" alt="Mi primer tablero (1)" src="https://github.com/user-attachments/assets/49097496-1083-42ba-b464-3dae244ac41c" />
 <img width="1273" height="785" alt="Mi primer tablero" src="https://github.com/user-attachments/assets/23eeae34-32c7-449b-9528-65c0604ad561" />
 <img width="1294" height="772" alt="Mi primer tablero - Marco 3" src="https://github.com/user-attachments/assets/69fbb266-f03e-4bf8-9b6f-22731bbccc3a" />
-<img width="2039" height="490" alt="Mi primer tablero - Marco 5" src="https://github.com/user-attachments/assets/3e549ca9-15f3-4e43-973d-c991aa64b382" />
-
+<img width="1349" height="741" alt="Mi primer tablero - Marco 4" src="https://github.com/user-attachments/assets/67fbd152-e7bd-4830-acfa-c3e7eaa5ac73" />
+<img width="1629" height="613" alt="Mi primer tablero - Marco 5 (1)" src="https://github.com/user-attachments/assets/0144b0e6-9572-44cd-8509-4c09574a3e72" />
